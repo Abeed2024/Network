@@ -1,9 +1,7 @@
 # VIRTUAL PRIVATE CLOUD
 **Definition**: A virtual private cloud (VPC) is a virtualized network within a cloud service provider's infrastracture that allows users to create a logically isolated section of the cloud.
 
-We are having some components in this
-
-They are:
+We have some components:
 
 1)Subnets
 
@@ -21,7 +19,7 @@ They are:
 # 1) SUBNETS
 **Definition**: It can divide the VPC'S IP address range into smaller manageable segments subnets can be either public or private.
 
-Types:
+**Types**:
 
 1)**Public subnets**: It have direct internet access through an internet gateway.
 
