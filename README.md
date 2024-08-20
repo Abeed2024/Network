@@ -1,13 +1,22 @@
 # VIRTUAL PRIVATE CLOUD
 Definition: A virtual private cloud (VPC) is a virtualized network within a cloud service provider's infrastracture that allows users to create a logically isolated section of the cloud.
+
 We are having some components in this
+
 They are
+
 1)Subnets
+
 2)Route tables
+
 3)Internet gateway
+
 4)NAT gateway
+
 5)Security groups
+
 6)NACLS
+
 7)VPC flow logs
 # SUBNETS
 Definition: It can divide the VPC'S IP address range into smaller manageable segments subnets can be either public or private.
